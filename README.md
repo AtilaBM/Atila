@@ -1,29 +1,28 @@
-# Sou o Átila! 👋
+<h2 align="left">Hi 👋! Meu nome é Atila</h2>
 
-Meu nome é Átila Batista Martins, sou de Brasília-DF, Nasci em 10 de fevereiro de 2006 e atualmente estou cursando Engenharia de Software na Universidade Católica de Brasília. Antes da faculdade, fiz um curso técnico em Informática na Escola Técnica de Ceilândia, que me deu uma ótima base pra entrar de vez na área de TI.
+###
 
-Estou sempre buscando aprender coisas novas, principalmente quando o assunto é desenvolvimento web. Gosto de me jogar em novos desafios e seguir evoluindo!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
----
+###
 
-### 💻 Tecnologias
+<div align="left">
+  <a href="mailto:atilabmartins@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/atilabm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=CC6699)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-
----
-
-### 🌐 Minhas redes!
-
-Me encontra no LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/atilabm)
-
----
-
-### 📊 Meu GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtilaBM&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AtilaBM&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+###
